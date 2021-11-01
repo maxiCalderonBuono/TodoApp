@@ -1,2 +1,2 @@
-# HookApp
-Deep dive into React Hooks and Custom Hooks
+# TodoApp
+A simple To-Do app made with React using useReducer and custom Hooks
