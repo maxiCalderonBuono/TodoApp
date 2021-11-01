@@ -1,7 +1,7 @@
 import React, { useEffect, useReducer } from "react";
 import "./todo.css";
 import { todoReducer } from "./todoReducer";
-import { useForm } from "../../hooks/useForm";
+import { useForm } from "../hooks/useForm";
 import { TodoList } from "./TodoList";
 
 const init =() => {
